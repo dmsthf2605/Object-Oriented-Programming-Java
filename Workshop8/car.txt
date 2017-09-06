@@ -1,0 +1,3 @@
+"Toyota Corolla","Dawn M",1000
+"Honda Civic","John S",40000
+"Vokswagen","Maria B",500
